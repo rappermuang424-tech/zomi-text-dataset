@@ -4,6 +4,7 @@
 This is a public dataset of Zomi (Tedim Chin) text collected to support AI language models, NLP research, and language preservation. The dataset contains sentences in Zomi, along with English and Burmese translations where available.ချင်း/ဇိုမီး အတွက် ကျွန်တော် siangsawnmuangpu က ရေးသားထားတာပါ😍
 
 ## Dataset Structure  
+Zomi Language Dataset, Zomi NLP Corpus, Tedim Chin Text Data
 - **data/txt/** → Zomi text files (`zomi_sentences.txt`)  ('zomi_religion.txt')
 - **data/json/** → Zomi sentences in JSON format (`zomi_dataset.json`)  
 - **metadata/** → Information about data sources and contributors  
