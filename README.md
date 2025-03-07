@@ -29,3 +29,5 @@ mpt-09256050883
 ooredoo- 09957454056
 facebook- www.facebook.com/sayamuang10
 email- rappermuang424@gmail.com
+Share link👇
+https://github.com/rappermuang424-tech/zomi-text-dataset
